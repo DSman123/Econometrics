@@ -1,1 +1,1 @@
-# R code for Econometrics class.
+R code for Econometrics class.
